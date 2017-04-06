@@ -1,0 +1,218 @@
+﻿MID_？？？	???
+MPID_？？？	???
+MPID_???	???
+MPID_不明	Unknown
+MPID_フードマン	???
+MPID_デフォルト名	Alm
+MPID_アルム	Alm
+MPID_セリカ	Celica
+MPID_マイセン	Mycen
+MPID_ノーマ	Nomah
+MPID_ルカ	Lukas
+MPID_クリフ	Kliff
+MPID_ロビン	Tobin
+MPID_グレイ	Gray
+MPID_エフィ	Faye
+MPID_クレア	Claire
+MPID_クレーベ	Clive
+MPID_フォルス	Forsyth
+MPID_メイ	Mae
+MPID_シルク	Silque
+MPID_ジェニー	Genny
+MPID_ボーイ	Boey
+MPID_コンラート	Conrad
+MPID_仮面の騎士	Masked Knight
+MPID_カムイ	Kamui
+MPID_レオ	Leon
+MPID_バルボ	Valbar
+MPID_マチルダ	Mathilda
+MPID_パイソン	Python
+MPID_アトラス	Atlas
+MPID_ジェシー	Jesse
+MPID_ソニア	Sonya
+MPID_ディーン	Deen
+MPID_セーバー	Saber
+MPID_リュート	Luthier
+MPID_デューテ	Delthea
+MPID_ティータ	Tatiana
+MPID_カチュア	Catria
+MPID_パオラ	Palla
+MPID_エスト	Est
+MPID_ジーク	Zeke
+MPID_ベルクト	Berkut
+MPID_異常ベルクト	Berkut
+MPID_フェルナン	Fernand
+MPID_ドゼー	Desaix
+MPID_ギース	Grieth
+MPID_ドルク	Dolk
+MPID_ヌイババ	Nuibaba
+MPID_ルドルフ	Rudolf
+MPID_ジュダ	Juda
+MPID_マグナム	Magnam
+MPID_ジェローム	Jerowm
+MPID_ミューラー	Mueller
+MPID_マーラ	Marla
+MPID_タタラ	Tatara
+MPID_ジャミル	Jamil
+MPID_ガゼル	Gazelle
+MPID_ザクソン	Zack
+MPID_スレイダー	Slayde
+MPID_ミカエラ	Michael
+MPID_ローソン	Lawson
+MPID_ダッハ	Dahha
+MPID_ガッハ	Gahha
+MPID_ブライ	Vrai
+MPID_盗賊頭	Brigand Leader
+MPID_リゲル軍	Rigel's Army
+MPID_ウォルフ	Wolf
+MPID_ギース軍	Grieth's Army
+MPID_ドゼー軍	Desaix's Army
+MPID_ドルク軍	Dolk's Army
+MPID_魔道軍	Mage Army
+MPID_海賊	Pirate
+MPID_山賊	Brigand
+MPID_魔物	Demon
+MPID_ドーマ	Duma
+MPID_ドーマ人間形態	Duma
+MPID_ガルシア	Garcie
+MPID_ヘステ	Heste
+MPID_サイゾー	Saizor
+MPID_ガネフ	Ganef
+MPID_デビル	Devil
+MPID_ゴールド	Gold
+MPID_シルバー	Silver
+MPID_サーペント	Serpent
+MPID_ナーガ	Naga
+MPID_バデス	Bahdess
+MPID_ケルベス	Kelves
+MPID_ベルレス	Belrez
+MPID_ゲッペル	Gepel
+MPID_鍛冶屋	Blacksmith
+MPID_リプリカ	Liprica
+MPID_イルマ	Irma
+MPID_ハルク	Hark
+MPID_マッセナ	Massena
+MPID_リマ四世	Rima IV
+MPID_リネア	Rinean
+MPID_ミラ	Mila
+MPID_シャドー	Illusory Soldier
+MPID_男	Man
+MPID_男性	Guy
+MPID_おじさん	Gentleman
+MPID_おじいさん	Old Man
+MPID_老人	Elder
+MPID_少年	Boy
+MPID_女	Woman
+MPID_女性	Lass
+MPID_おばさん	Lady
+MPID_おばあさん	Old Woman
+MPID_娘	Girl
+MPID_少女	Girl
+MPID_女の子	Girl
+MPID_子供	Child
+MPID_水門番	Floodgate Lookout
+MPID_チーズ好きの貴族	Cheese-Loving Noble
+MPID_旅の商人	Traveling Merchant
+MPID_貴族のおじさん	Elite Gentleman
+MPID_大商人アレッシオ	Great Merchant Alessio
+MPID_酒場の主人の妻	Tavern Lord's Wife
+MPID_フーガ家の当主	Head of the Fuuga Family
+MPID_リオン家の当主	Head of the Lyon Family
+MPID_貴族の料理人	Noble Chef
+MPID_腕の良い漁師	Skilled Fisherman
+MPID_学者風の男	Scholarly Man
+MPID_衰弱した男	Emaciated Man
+MPID_隠者	Hermit
+MPID_村の商人	Village Merchant
+MPID_酒場の主人	Tavern Lord
+MPID_うろたえる婦人	Panicked Woman
+MPID_くたびれた婦人	Weary Woman
+MPID_素朴な木こり	Rustic Lumberjack
+MPID_商人の妻	Merchant's Wife
+MPID_旅の青年	Wandering Youth
+MPID_薬の学者	Pharmacist
+MPID_大魔道士	Wizard
+MPID_異国の商人	Foreign Merchant
+MPID_物欲しげな老人	Greedy Old Coot
+MPID_魚好きのおじさん	Fish-Loving Man
+MPID_神経質なシスター	Nervous Cleric
+MPID_狼狽するシスター	Flustered Cleric
+MPID_落ち着かない男性	Upset Man
+MPID_不気味な隠者	Eerie Hermit
+MPID_物憂げな隠者	Melancholy Hermit
+MPID_腹を立てる女性	Indignant Lady
+MPID_鍛冶屋の亭主	Blacksmith Master
+MPID_ソフィア兵	Zofian Soldier
+MPID_リゲル兵	Rigelian Soldier
+MPID_解放軍兵士	Deliverance Soldier
+MPID_ドゼー軍兵士	Desaix's Soldier
+MPID_派手な服の男	Gaudily-Clothed Man
+MPID_ナイト	Cavalier
+MPID_ナイト（青）	Cavalier
+MPID_アーマー	Armor Knight
+MPID_ガーゴイル	Gargoyle
+MPID_バルログ	Balrog
+MPID_パラディン	Paladin
+MPID_ドラゴンゾンビ	Draco Zombie
+MPID_白竜	White Dragon
+MPID_ソルジャー	Soldier
+MPID_ソルジャー（青）	Soldier
+MPID_ゴールドナイト	Gold Knight
+MPID_傭兵	Mercenary
+MPID_傭兵（青）	Mercenary
+MPID_剣士	Myrmidon
+MPID_魔戦士	Dread Fighter
+MPID_聖女	Saint
+MPID_ゾンビ	Revenant
+MPID_リッチー	Wight
+MPID_マミー	Entombed
+MPID_アーチャー	Archer
+MPID_アーチャー（青）	Archer
+MPID_スナイパー	Sniper
+MPID_盗賊	Brigand
+MPID_妖術師	Arcanist
+MPID_魔女	Witch
+MPID_スケルトン	Bonewalker
+MPID_ビグル	Mogall
+MPID_祈祷師	Shaman
+MPID_ボウナイト	Bow Knight
+MPID_戦士	Warrior
+MPID_バロン	Baron
+MPID_魔人	High Knight
+MPID_勇者	Hero
+MPID_ペガサスナイト	Pegasus Knight
+MPID_シスター	Cleric
+MPID_シスター（青）	Cleric
+MPID_賢者	Sage
+MPID_神官	Priestess
+MPID_幻影マルス	Illusory Hero
+MPID_幻影アイク	Illusory Hero
+MPID_幻影ルキナ	Illusory Hero
+MPID_幻影ルフレ	Illusory Hero
+MPID_幻影ロイ	Illusory Hero
+MPID_幻影カムイ男	Illusory Hero
+MPID_幻影カムイ女	Illusory Hero
+MPID_幻影兵	Illusory Soldier
+MPID_ミラのしもべ	Mila's Servant
+MPID_ドーマの使徒	Apostle of Duma
+MPID_ドラクル	Dracul
+MPID_タイタン	Titan
+MPID_ガルーダ	Garuda
+MPID_守護者	Guardian
+MPID_ウェスタ	Vesta
+MPID_ファフナー	Fafnir
+MPID_ダゴン	Dagon
+MPID_バロール	Balor
+MPID_デイモス	Deimos
+MPID_火竜	Fire Dragon
+MPID_ギムレー	造られしもの
+MPID_屍兵	Mask of the Deceased
+MPID_イリュージョン魔戦	Invoke Terror
+MPID_イリュージョン天馬	Invoke Pegasus
+MPID_イリュージョン兵士	Invoke Fighter
+MPID_メサイア死霊	Messiah Ghost
+MPID_メサイア骸骨	Messiah Bonewalker
+MPID_メサイア飛魔	Messiah Gargoyle
+MPID_メサイア死竜	Messiah Dragon
+MPID_メサイア魔女	Messiah Witch
+MPID_メサイア目玉	Messiah Eyeball
