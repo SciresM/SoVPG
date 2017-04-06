@@ -291,19 +291,38 @@ namespace SoVPG
             PB_Portrait.Image = C;
         }
 
-        private void SaveImage(object sender, EventArgs e)
+        private string GetImageName()
         {
-            var sfd = new SaveFileDialog();
-            var emotions = new List<string>(new[] {((cbItem) CB_Emotion.SelectedItem).Text});
+            var emotions = new List<string>(new[] { ((cbItem)CB_Emotion.SelectedItem).Text });
             if (BLUSH)
                 emotions.Add("照");
             if (SWEAT)
                 emotions.Add("汗");
-            var name = $"{((cbItem)CB_Character.SelectedItem).Text}_{((cbItem)CB_PortraitStyle.SelectedItem).Text.ToLower()}_{string.Join(",",emotions)}.png";
-            sfd.FileName = name;
+            var name = $"{((cbItem)CB_Character.SelectedItem).Text}_{((cbItem)CB_PortraitStyle.SelectedItem).Text.ToLower()}_{string.Join(",", emotions)}.png";
+            return name;
+        }
+
+        private void SaveImage(object sender, EventArgs e)
+        {
+            var sfd = new SaveFileDialog();
+            sfd.FileName = GetImageName();
             if (sfd.ShowDialog() != DialogResult.OK)
                 return;
             PB_Portrait.Image.Save(sfd.FileName, ImageFormat.Png);
+        }
+
+        private void PB_Portrait_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Right)
+                return;
+            var newfile = Path.Combine(Path.GetTempPath(), GetImageName());
+            try
+            {
+                PB_Portrait.Image.Save(newfile, ImageFormat.Png);
+                if (DoDragDrop(new DataObject(DataFormats.FileDrop, new[] {newfile}), DragDropEffects.Move) == DragDropEffects.None)
+                    SaveImage(sender, e);
+            } catch (Exception ex) { }
+            File.Delete(newfile);
         }
     }
 

@@ -51,6 +51,7 @@
             this.PB_Portrait.TabIndex = 1;
             this.PB_Portrait.TabStop = false;
             this.PB_Portrait.Click += new System.EventHandler(this.SaveImage);
+            this.PB_Portrait.MouseDown += new System.Windows.Forms.MouseEventHandler(this.PB_Portrait_MouseDown);
             // 
             // CHK_SweatDrop
             // 
